@@ -1,9 +1,9 @@
 # EC-INTEGRA
 ![176a12e4-7bcb-4015-8b15-6ab9d2d9bff5](https://user-images.githubusercontent.com/116355531/197352404-b671d918-d486-4294-8f3e-b852f25443e4.jpg)
 # Авторы
-1. Басан Елена Сергеевна, контакты: ebasan@sfedu.ru, https://github.com/lennylenny161
+1. [Басан Елена Сергеевна](https://github.com/lennylenny161), контакты: ebasan@sfedu.ru
 2. Басан Александр Сергеевич, контакты: deb@ec-integra.ru
-3. Чумак Владислав Андреевич, контакты: vladislavchumak43@gmail.com, https://github.com/VladislavChumak
+3. [Чумак Владислав Андреевич](https://github.com/VladislavChumak), контакты: vladislavchumak43@gmail.com
 # Описание
 Translog - это два десктопных python и java приложения для чтения ULG, DAT, TXT логов с DJI дронов и извлечения в csv
 файл с полными или оптимальмальными параметрами.
